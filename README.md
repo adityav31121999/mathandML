@@ -7,17 +7,12 @@
 ## MLPs
 MULTILAYER PERCEPTRONS
 
-## TNNs
-Text Neural Networks
-
-## INNs
-Image Neural Networks
-
-## ANNs
-Audio Neural Networks
-
 ## Math Functions and Classes
-
+- Activation Functions:
+  - Sigmoid
+  - ReLU
+  - SeLU
+  - SoftMax
 
 ## Algorithms
 
