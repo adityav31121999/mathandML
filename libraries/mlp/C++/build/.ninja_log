@@ -1,0 +1,9 @@
+# ninja log v6
+109	1243	7607268389894279	CMakeFiles/mlp.dir/weights.cpp.obj	a2a1b36d8a18622c
+15	1279	7607268388949129	CMakeFiles/mlp.dir/mlp.cpp.obj	9c71bff6bbd95ff4
+120	949	7607268389992019	CMakeFiles/mlp.dir/loss.cpp.obj	5b45a87855bda718
+100	1231	7607268389795281	CMakeFiles/mlp.dir/train.cpp.obj	f52f176fe873e0bd
+86	1328	7607268389655020	CMakeFiles/mlp.dir/backprop.cpp.obj	b443eea565667744
+6	1163	7607268388854719	CMakeFiles/mlp.dir/activations.cpp.obj	6d184bc1f132c8
+1329	1648	7607268402074194	mlp.lib	51d46523d4fcbafb
+34	937	7607268389135075	CMakeFiles/mlp.dir/forprop.cpp.obj	4107714b699e9791
