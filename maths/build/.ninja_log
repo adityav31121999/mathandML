@@ -1,0 +1,12 @@
+# ninja log v6
+19	71	7607868389976187	src/linalg/CMakeFiles/linalg.dir/src/vec1.cpp.obj	a22a05c02920c19e
+25	78	7607868390026183	src/linalg/CMakeFiles/linalg.dir/src/vec2.cpp.obj	3e69da14096a05ee
+5	471	7607868389823576	src/basics/CMakeFiles/basics.dir/src/activations.cpp.obj	6653ff61fbb6f524
+478	600	7607868394562087	C:/code/neurals/maths/bin/Windows-AMD64-64/Debug/static_libs/basics.lib	6efbf8e327201fc8
+10	477	7607868389878735	src/basics/CMakeFiles/basics.dir/src/activationsder.cpp.obj	bce1bc13399ca35f
+15	1054	7607868389923456	src/linalg/CMakeFiles/linalg.dir/src/mat.cpp.obj	b02ce5c4370870e7
+1055	1124	7607868400322176	C:/code/neurals/maths/bin/Windows-AMD64-64/Debug/static_libs/linalg.lib	ca0180f77c35efe8
+9	139	7607874841323314	src/linalg/CMakeFiles/linalg.dir/src/vec1.cpp.obj	83ff5ebb7ddcc468
+13	140	7607874841409485	src/linalg/CMakeFiles/linalg.dir/src/vec2.cpp.obj	674d5e4667c37fbd
+4	809	7607874841323314	src/linalg/CMakeFiles/linalg.dir/src/mat.cpp.obj	771e4c4acfc36ae8
+809	888	7607874849368178	C:/code/neurals/maths/bin/Windows-AMD64-64/Debug/static_libs/linalg.lib	ca0180f77c35efe8

@@ -1,0 +1,188 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src/basics",
+					"jsonFile" : "directory-src.basics-Debug-7041ade9ffb8c6ba2847.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "src/basics",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src/fourier",
+					"jsonFile" : "directory-src.fourier-Debug-732aaa58588980ae81e1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/fourier"
+				},
+				{
+					"build" : "src/linalg",
+					"jsonFile" : "directory-src.linalg-Debug-31a00ec1b37c23e9f1e8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "src/linalg",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "src/plots",
+					"jsonFile" : "directory-src.plots-Debug-26dbadb42f42acf9e56e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/plots"
+				},
+				{
+					"build" : "src/poly",
+					"jsonFile" : "directory-src.poly-Debug-9e2a591253f8b0a696e7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/poly"
+				},
+				{
+					"build" : "src/stats",
+					"jsonFile" : "directory-src.stats-Debug-0ae21f1e544e1f0e1388.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/stats"
+				},
+				{
+					"build" : "src/tensor",
+					"jsonFile" : "directory-src.tensor-Debug-27066cdb25732c869d79.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/tensor"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						2,
+						4,
+						5,
+						6,
+						7
+					],
+					"name" : "maths"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "basics",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "linalg",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "basics::@b346f9ef4bdff949d793",
+					"jsonFile" : "target-basics-Debug-57c5c15297153bd149cd.json",
+					"name" : "basics",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "linalg::@6ea501d969d3f20817b0",
+					"jsonFile" : "target-linalg-Debug-dd5a8e962ea11fdeae64.json",
+					"name" : "linalg",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/code/neurals/maths/build",
+		"source" : "C:/code/neurals/maths"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
