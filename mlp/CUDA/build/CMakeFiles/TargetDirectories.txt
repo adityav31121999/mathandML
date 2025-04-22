@@ -1,3 +1,0 @@
-D:/mathandML/mlp/CUDA/build/CMakeFiles/mlp.dir
-D:/mathandML/mlp/CUDA/build/CMakeFiles/ALL_BUILD.dir
-D:/mathandML/mlp/CUDA/build/CMakeFiles/ZERO_CHECK.dir
