@@ -1,4 +1,0 @@
-# ninja log v6
-10	814	7624238469501161	CMakeFiles/rnn.dir/rnn.cpp.obj	a958acf17ba985e0
-3	937	7624238469391245	CMakeFiles/rnn.dir/activations.cpp.obj	a5e84ddeec05b346
-938	1058	7624238478781658	rnn.lib	9fc8c04dd7240c07
